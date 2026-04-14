@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.rar
+qualtrics_surveys/
+qualtrics survey/
+.claude/
+testsprite_tests/
