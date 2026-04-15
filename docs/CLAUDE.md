@@ -69,14 +69,14 @@ select cron.unschedule('sync-qualtrics-5min');
 
 | Survey ID | Table |
 |---|---|
-| SV_01cMwRVSLUkea2O | `billing_caseagent_survey` |
-| SV_cT3pOd7JuEFj49M | `care_caseagent_survey_gpst_zonar` |
-| SV_bx8nf9yQwWrDCU6 | `csat_survey_legacy_gpst_customers` |
-| SV_cu3T7zZabenft8G | `csat_survey_legacy_zonar_customers` |
-| SV_9mN6zmbtwrBQrd4 | `legacy_gps_trackit_customer_upsell_opportunity_survey` |
-| SV_0e8MC0MLCGE15C6 | `legacy_zonar_customer_upsell_opportunity_survey` |
-| SV_eOKq8bcQhNLaFdc | `closed_loss_survey` |
-| SV_5bcQsvtTh41JaqW | `closed_win_survey` |
+| `<SURVEY_ID>` | `billing_caseagent_survey` |
+| `<SURVEY_ID>` | `care_caseagent_survey_gpst_zonar` |
+| `<SURVEY_ID>` | `csat_survey_legacy_gpst_customers` |
+| `<SURVEY_ID>` | `csat_survey_legacy_zonar_customers` |
+| `<SURVEY_ID>` | `legacy_gps_trackit_customer_upsell_opportunity_survey` |
+| `<SURVEY_ID>` | `legacy_zonar_customer_upsell_opportunity_survey` |
+| `<SURVEY_ID>` | `closed_loss_survey` |
+| `<SURVEY_ID>` | `closed_win_survey` |
 
 ## Table Schema
 

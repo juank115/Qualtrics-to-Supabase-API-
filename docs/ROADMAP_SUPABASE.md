@@ -60,14 +60,14 @@ Columnas usan labels descriptivos del texto de las preguntas (row 1 del CSV de Q
 ### 2.3 Tablas
 | Tabla | Survey ID |
 |---|---|
-| `billing_caseagent_survey` | SV_01cMwRVSLUkea2O |
-| `care_caseagent_survey_gpst_zonar` | SV_cT3pOd7JuEFj49M |
-| `csat_survey_legacy_gpst_customers` | SV_bx8nf9yQwWrDCU6 |
-| `csat_survey_legacy_zonar_customers` | SV_cu3T7zZabenft8G |
-| `legacy_gps_trackit_customer_upsell_opportunity_survey` | SV_9mN6zmbtwrBQrd4 |
-| `legacy_zonar_customer_upsell_opportunity_survey` | SV_0e8MC0MLCGE15C6 |
-| `closed_loss_survey` | SV_eOKq8bcQhNLaFdc |
-| `closed_win_survey` | SV_5bcQsvtTh41JaqW |
+| `billing_caseagent_survey` | `<SURVEY_ID>` |
+| `care_caseagent_survey_gpst_zonar` | `<SURVEY_ID>` |
+| `csat_survey_legacy_gpst_customers` | `<SURVEY_ID>` |
+| `csat_survey_legacy_zonar_customers` | `<SURVEY_ID>` |
+| `legacy_gps_trackit_customer_upsell_opportunity_survey` | `<SURVEY_ID>` |
+| `legacy_zonar_customer_upsell_opportunity_survey` | `<SURVEY_ID>` |
+| `closed_loss_survey` | `<SURVEY_ID>` |
+| `closed_win_survey` | `<SURVEY_ID>` |
 
 ---
 
