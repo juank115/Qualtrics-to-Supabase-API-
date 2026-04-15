@@ -62,14 +62,14 @@ Columnas con nombres descriptivos (labels de Qualtrics, snake_case, máx 60 char
 
 | Tabla | Survey ID | Filas aprox. |
 |---|---|---|
-| `billing_caseagent_survey` | SV_01cMwRVSLUkea2O | ~681 |
-| `care_caseagent_survey_gpst_zonar` | SV_cT3pOd7JuEFj49M | ~4,202 |
-| `csat_survey_legacy_gpst_customers` | SV_bx8nf9yQwWrDCU6 | ~1,978 |
-| `csat_survey_legacy_zonar_customers` | SV_cu3T7zZabenft8G | ~610 |
-| `legacy_gps_trackit_customer_upsell_opportunity_survey` | SV_9mN6zmbtwrBQrd4 | ~322 |
-| `legacy_zonar_customer_upsell_opportunity_survey` | SV_0e8MC0MLCGE15C6 | ~86 |
-| `closed_loss_survey` | SV_eOKq8bcQhNLaFdc | ~13 |
-| `closed_win_survey` | SV_5bcQsvtTh41JaqW | ~21 |
+| `billing_caseagent_survey` | `<SURVEY_ID>` | ~681 |
+| `care_caseagent_survey_gpst_zonar` | `<SURVEY_ID>` | ~4,202 |
+| `csat_survey_legacy_gpst_customers` | `<SURVEY_ID>` | ~1,978 |
+| `csat_survey_legacy_zonar_customers` | `<SURVEY_ID>` | ~610 |
+| `legacy_gps_trackit_customer_upsell_opportunity_survey` | `<SURVEY_ID>` | ~322 |
+| `legacy_zonar_customer_upsell_opportunity_survey` | `<SURVEY_ID>` | ~86 |
+| `closed_loss_survey` | `<SURVEY_ID>` | ~13 |
+| `closed_win_survey` | `<SURVEY_ID>` | ~21 |
 
 ---
 

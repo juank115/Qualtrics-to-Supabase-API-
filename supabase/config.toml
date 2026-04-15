@@ -1,0 +1,5 @@
+[functions.upload-survey]
+# Set to true to enable Supabase JWT verification as a second auth layer.
+# When enabled, callers must also send a valid Supabase JWT in the Authorization header.
+# Currently false because pg_cron calls use only UPLOAD_SECRET_TOKEN.
+verify_jwt = false
